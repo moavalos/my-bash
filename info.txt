@@ -1,0 +1,16 @@
+intento de nuevo proyecto personal. my bash simula un tinder/instagram para mascotas pero con su salud. 
+una web de seguimiento de tu mascota. tarjeta de presentacion de la mascota estilo tinder ¿?
+
+se podrá ingresar una mascota (tipo de animal, edad, raza, nombre, etc.)
+se podrá ingresar su alimento (nombre, marca, ) y lo que puede comer o lo que le hace mal
+contanos sobre tu mascota: una biografía (lo que le gusta hacer, si es malo, etc.)
+pertenencias (collar)
+seguimiento de salud: veterinario asignado (con su número telefónico y chat) cerca de la casa del usuario. 
+Si no tiene veterinario, existe la posibilidad de buscar uno cerca de la zona (con sus estrellas, ubicación, comentarios, horarios, etc.). 
+El seguimiento de salud podría ser un calendario dónde si el gato no está bien de salud, se anota en el día lo que le pasó (ej: hoy jueves 7 mí gato empezó a vomitar feo).
+contactos (otros bashs cercanos a vos)
+Se puede anotar si su pelo cambió o su peso.
+existe una sección para comprar artículos para la mascota (juguetes, ropita, etc.)
+sección galería como Google fotos o drive donde se puede cargar fotos y videos y la web los organiza mediante fecha
+
+PAGINA DE INICIO
