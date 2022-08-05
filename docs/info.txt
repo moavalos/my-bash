@@ -1,5 +1,7 @@
-my bash simula un tinder/instagram para mascotas
-una web de seguimiento de tu mascota.
+my bash simula un tinder/instagram para gatos
+una web de seguimiento de tu gato
+red social para compartir fotos y videos, plantear dudas, compartir experciencias y contactar con otros dueños.
+Si una mascota se pierde, el dueño puede compartir una foto y esta se distribuye para encontrarlo.
 
 REGISTRARSE / INICIAR SESION
 	DUEÑO
@@ -7,20 +9,13 @@ REGISTRARSE / INICIAR SESION
 		edad
 		pais
 		correo y telefono
-	MASCOTA
+	GATO
 		nombre (apodo opcional)
 		edad y cumpleaños (en meses)
-		tipo de animal; gato, perro, etc.
-		raza
+		raza? opcional
 		edad
 		foto (subir foto)
-		contanos sobre tu mascota: una biografía (lo que le gusta hacer, si es malo, etc.)
-	ALIMENTO -- pensando si es necesario
-		nombre
-		marca
-		calorias 
-		kilos
-		(subir foto)
+		contanos sobre tu gato, una biografía (lo que le gusta hacer, si es malo, etc.)
 
 	PERTENENCIAS
 		ropa
